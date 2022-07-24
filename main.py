@@ -59,13 +59,13 @@ def get_command():
 
 def send_whatsapp_message(name):
     contact = {
-        " dad": "+919433403243",
-        " captain america": "+917980844715",
-        " iron man": "+919073559190",
-        " brothers": "+919903791038",
-        " computer sir": "+919038963728",
-        " maths sir": "+919163790031",
-        " surya": "+919123685803"
+        " dad": "+919433345483",
+        " captain america": "+917845774532",
+        " iron man": "+919876545678",
+        " brothers": "+916754345674",
+        " computer sir": "+919978698765",
+        " maths sir": "+917896850978",
+        " surya": "+916678799908"
     }
     speak("What do you wanna text ?")
     text = get_command()
